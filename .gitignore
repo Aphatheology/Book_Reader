@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+src/components/BookListcopy.js
+src/components/Navbarcopy.js
+src/contexts/*copy.js
+src/Appcopy.js
